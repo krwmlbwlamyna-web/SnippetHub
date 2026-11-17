@@ -1,2 +1,2 @@
 # SnippetHub
-Ican help you Application 
+I can help you Application 
